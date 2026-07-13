@@ -1,3 +1,11 @@
+Nomes:
+ARTHUR GONÇALVES DE OLIVEIRA
+BEATRIZ AYANNA SANTOS DE OLIVEIRA
+ENZO FERREIRA JOSÉ MATIAS
+MATHIAS EDUARDO VIANA DE PAULA
+SAMARA CORDEIRO DE OLIVEIRA
+
+
 # SistemaEstoque
 
 Sistema web de gerenciamento de estoque desenvolvido em Java com Spring Boot.
