@@ -113,7 +113,7 @@ mvn spring-boot:run
 Após iniciar o projeto:
 
 
-http://localhost:8080
+http://localhost:8080/html/index.html
 
 
 ---
